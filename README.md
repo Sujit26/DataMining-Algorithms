@@ -2,17 +2,17 @@
 
 These the three alogorithms for assiosation rule mining. I Implement these algorithms in python and tested in diffrent DataSet.
 
-# Apriori Algorithm
+## Apriori Algorithm
 <p>
     <img src="/screenshots/apriori.png" alt="drawing" />
 </p>
 
-# Eclact Algorithm
+## Eclact Algorithm
 <p>
     <img src="/screenshots/eclact.png" alt="drawing" />
 </p>
 
-# FP Growth Algorithm
+## FP Growth Algorithm
 <p>
     <img src="/screenshots/fp.png" alt="drawing" />
 </p>
