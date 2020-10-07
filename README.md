@@ -4,17 +4,17 @@ These the three alogorithms for assiosation rule mining. I Implement these algor
 
 # Apriori Algorithm
 <p>
-    <img src="/screenshots/apriori.png" alt="drawing" width="200"/>
+    <img src="/screenshots/apriori.png" alt="drawing" />
 </p>
 
 # Eclact Algorithm
 <p>
-    <img src="/screenshots/eclact.png" alt="drawing" width="200"/>
+    <img src="/screenshots/eclact.png" alt="drawing" />
 </p>
 
 # FP Growth Algorithm
 <p>
-    <img src="/screenshots/fp.png" alt="drawing" width="200"/>
+    <img src="/screenshots/fp.png" alt="drawing" />
 </p>
 
 
