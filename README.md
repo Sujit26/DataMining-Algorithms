@@ -12,4 +12,4 @@ How to Run code
 -> Python3 algorithm_name.py  
 -> Enter minimum support in percentage (For eg: for 1% wrtie 0.01)  
 
-I have writen a code with generae the fake data-set for grocerry
+I have writen a code for generation of fake data-set for grocerry
